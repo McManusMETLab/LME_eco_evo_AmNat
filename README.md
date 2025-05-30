@@ -1,3 +1,6 @@
+Citable as <a href="https://doi.org/10.5281/zenodo.15549499"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15549499.svg" alt="DOI"></a>
+
+
 This repository consists of data files, code scripts, and this README document for the manuscript ‘Rate of temperature increase and genetic diversity drives marine metapopulation persistence under climate change.’ 
 
 Authors:
