@@ -1,12 +1,17 @@
-Eojin Lee^(1,2) (0009-0006-6451-9188)
-Lisa C. McManus^3* (0000-0002-9367-6872)
-
-1. Applied Physics and Applied Mathematics, Columbia University, New York, NY 10027
-2. Geophysics, Stanford University, Stanford, CA 94305 
-3. Hawaiʻi Institute of Marine Biology, University of Hawaiʻi at Mānoa, Kāneʻohe, 96744
-*Corresponding author; e-mail: mcmanusl@hawaii.edu
-
 This repository consists of data files, code scripts, and this README document for the manuscript ‘Rate of temperature increase and genetic diversity drives marine metapopulation persistence under climate change.’ 
+
+Authors:
+
+Eojin Lee<sup>1,2</sup>, Lisa C. McManus<sup>3*</sup>
+
+Affiliations: 
+
+<sup>1</sup> Applied Physics and Applied Mathematics, Columbia University, New York, NY 10027
+
+<sup>2</sup> Geophysics, Stanford University, Stanford, CA 94305 
+
+<sup>3</sup>Hawaiʻi Institute of Marine Biology, University of Hawaiʻi at Mānoa, Kāneʻohe, 96744
+*Corresponding author; e-mail: mcmanusl@hawaii.edu
 
 STUDY SUMMARY
 
