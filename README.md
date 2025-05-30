@@ -14,6 +14,7 @@ Affiliations:
 <sup>2</sup> Geophysics, Stanford University, Stanford, CA 94305 
 
 <sup>3</sup>Hawaiʻi Institute of Marine Biology, University of Hawaiʻi at Mānoa, Kāneʻohe, 96744
+
 *Corresponding author; e-mail: mcmanusl@hawaii.edu
 
 STUDY SUMMARY
